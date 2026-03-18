@@ -6,19 +6,19 @@ export default function Projects() {
             title: 'Asteroids Energy',
             image: '/images/asteroids-energy.png',
             link: 'https://wilfredo-rivera.itch.io/asteroids-energy',
-            description: 'Un juego de acción espacial donde debes evitar asteroides y recolectar energía. Desarrollado en Unity.'
+            description: 'Un juego de acción espacial donde debes evitar asteroides y recolectar energía. Desarrollado en Unity y C#.'
         },
         {
             title: 'Hungry Bites',
             image: '/images/hungry-bites.png',
             link: 'https://wilfredo-rivera.itch.io/hungry-bites',
-            description: 'Un juego arcade donde controlas a un personaje hambriento recolectando comida. Hecho con Godot.'
+            description: 'Un juego arcade donde controlas a un personaje hambriento recolectando comida. Desarrollado en Unity y C#.'
         },
         {
             title: 'Drifting Death',
             image: '/images/drifting-death.png',
             link: 'https://wilfredo-rivera.itch.io/drifting-death',
-            description: 'Un desafiante juego de carreras con elementos de supervivencia. Programado en C#.'
+            description: 'Un desafiante juego de carreras con elementos de supervivencia. Desarrollado en Unity y C#.'
         }
     ];
 
