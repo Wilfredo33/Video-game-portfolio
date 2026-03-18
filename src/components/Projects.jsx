@@ -1,22 +1,23 @@
 import { motion } from 'framer-motion';
 
 export default function Projects() {
+    const baseUrl = import.meta.env.BASE_URL;
     const projects = [
         {
             title: 'Asteroids Energy',
-            image: '/images/asteroids-energy.png',
+            image: `${baseUrl}images/asteroids-energy.png`,
             link: 'https://wilfredo-rivera.itch.io/asteroids-energy',
             description: 'Un juego de acción espacial donde debes evitar asteroides y recolectar energía. Desarrollado en Unity y C#.'
         },
         {
             title: 'Hungry Bites',
-            image: '/images/hungry-bites.png',
+            image: `${baseUrl}images/hungry-bites.png`,
             link: 'https://wilfredo-rivera.itch.io/hungry-bites',
             description: 'Un juego arcade donde controlas a un personaje hambriento recolectando comida. Desarrollado en Unity y C#.'
         },
         {
             title: 'Drifting Death',
-            image: '/images/drifting-death.png',
+            image: `${baseUrl}images/drifting-death.png`,
             link: 'https://wilfredo-rivera.itch.io/drifting-death',
             description: 'Un desafiante juego de carreras con elementos de supervivencia. Desarrollado en Unity y C#.'
         }
