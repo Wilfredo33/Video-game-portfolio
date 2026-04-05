@@ -7,7 +7,12 @@ export default function Projects() {
             title: 'Asteroids Energy',
             image: `${baseUrl}images/asteroids-energy.png`,
             link: 'https://wilfredo-rivera.itch.io/asteroids-energy',
-            description: 'Un juego de acción espacial donde debes evitar asteroides y recolectar energía. Desarrollado en Unity y C#.'
+            description:
+            `Un juego de acción espacial donde debes evitar asteroides y recolectar energía,
+            fue desarrollado en Unity y C# durante una game jam de 48 horas,
+            donde participé en el desarrollo del game play integrando scripts con sistemas de IA para obtener
+            mecánicas más fluidas y divertidas. \n                
+            Fue una experiencia emocionante y desafiante que resultó en un proyecto divertido y satisfactorio.`
         },
         {
             title: 'Hungry Bites',
@@ -20,6 +25,13 @@ export default function Projects() {
             image: `${baseUrl}images/drifting-death.png`,
             link: 'https://wilfredo-rivera.itch.io/drifting-death',
             description: 'Un desafiante juego de carreras con elementos de supervivencia. Desarrollado en Unity y C#.'
+        },
+
+        {
+            title: 'Romance Protocol',
+            image: `${baseUrl}images/romance-protocol.png`,
+            link: 'https://mayvidev.itch.io/romance-protocol',
+            description: 'Un juego de simulación de citas con un toque de ciencia ficción. Desarrollado en Unity y C#.'
         }
     ];
 

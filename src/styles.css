@@ -9,7 +9,7 @@ body {
     --secondary-color: #ddd;
     --bg-dark: #111;
     --bg-card: #1a1a1a;
-    --shadow: 0 0 20px rgba(0,0,0,0.5);
+    --shadow: 0 0 20px rgba(0, 0, 0, 0.5);
     --transition: 0.3s ease;
     scroll-behavior: smooth;
 }
@@ -109,7 +109,6 @@ body {
     box-shadow: 0 0 15px rgba(255, 174, 68, 0.3);
     transition: var(--transition);
     margin-bottom: 10px;
-    loading: lazy;
 }
 
 .project-card:hover img {
@@ -284,6 +283,7 @@ body {
         opacity: 0;
         transform: translateY(30px);
     }
+
     to {
         opacity: 1;
         transform: translateY(0);
