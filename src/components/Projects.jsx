@@ -11,14 +11,18 @@ export default function Projects() {
             `Un juego de acción espacial donde debes evitar asteroides y recolectar energía,
             fue desarrollado en Unity y C# durante una game jam de 48 horas,
             donde participé en el desarrollo del game play integrando scripts con sistemas de IA para obtener
-            mecánicas más fluidas y divertidas. \n                
-            Fue una experiencia emocionante y desafiante que resultó en un proyecto divertido y satisfactorio.`
+            mecánicas más fluidas y entretenidas. \n                
+            Fue una gran experiencia que resultó en un proyecto divertido y satisfactorio.`
         },
         {
             title: 'Hungry Bites',
             image: `${baseUrl}images/hungry-bites.png`,
             link: 'https://wilfredo-rivera.itch.io/hungry-bites',
-            description: 'Un juego arcade donde controlas a un personaje hambriento recolectando comida. Desarrollado en Unity y C#.'
+            description: 
+            `Un juego arcade donde controlas a un personaje hambriento que debe tomar
+            la mayor cantidad de comida. Este es un juego que desarrollé durante mi
+            formación como desarrollador de videojuegos, y fue mi primer proyecto completo.
+            Desarrollado en Unity y C#.`
         },
         {
             title: 'Drifting Death',
