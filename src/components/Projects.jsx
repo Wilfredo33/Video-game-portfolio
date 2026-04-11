@@ -9,9 +9,9 @@ export default function Projects() {
             link: 'https://wilfredo-rivera.itch.io/asteroids-energy',
             description:
             `Un juego de acción espacial donde debes evitar asteroides y recolectar energía,
-            fue desarrollado en Unity y C# durante una game jam de 48 horas,
-            donde participé en el desarrollo del game play integrando scripts con sistemas de IA para obtener
-            mecánicas más fluidas y entretenidas. \n                
+            fue desarrollado en Unity y C# durante una game jam de 30 horas,
+            donde participé en el desarrollo del game play integrando scripts
+            con mecánicas del player y enemigos. \n                
             Fue una gran experiencia que resultó en un proyecto divertido y satisfactorio.`
         },
         {
@@ -21,21 +21,33 @@ export default function Projects() {
             description: 
             `Un juego arcade donde controlas a un personaje hambriento que debe tomar
             la mayor cantidad de comida. Este es un juego que desarrollé durante mi
-            formación como desarrollador de videojuegos, y fue mi primer proyecto completo.
+            formación como desarrollador de videojuegos, y fue mi primer proyecto completo. \n
             Desarrollado en Unity y C#.`
         },
+
         {
             title: 'Drifting Death',
             image: `${baseUrl}images/drifting-death.png`,
             link: 'https://wilfredo-rivera.itch.io/drifting-death',
-            description: 'Un desafiante juego de carreras con elementos de supervivencia. Desarrollado en Unity y C#.'
+            description: 
+            `Es un juego de carreras donde los competidores van a tratar de eliminarte
+            de la pista y debes tratar de hacer lo mismo usando la técnica de drifting correcto.
+            Este es un juego que desarrollé durante mi formación como desarrollador de videojuegos.
+            Actualmente se encuentra en fase de desarrollo.`
         },
 
         {
             title: 'Romance Protocol',
             image: `${baseUrl}images/romance-protocol.png`,
             link: 'https://mayvidev.itch.io/romance-protocol',
-            description: 'Un juego de simulación de citas con un toque de ciencia ficción. Desarrollado en Unity y C#.'
+            description: 
+            `Una humana queda “atrapada” en una escuela llena de monstruos. 
+            Con su arma dispara corazones con el objetivo de agotar la “resistencia emocional” 
+            de los monstruos hasta hacerlos desaparecer, dejando corazones como recompensa.
+            El jego corresponde a mi segunda participación de una game jam de 18 horas, 
+            donde participé en el desarrollo del game play integrando scripts con
+            sistemas de IA para obtener mecánicas más fluidas y entretenidas. \n
+            Desarrollado en Unity y C#.`
         }
     ];
 
