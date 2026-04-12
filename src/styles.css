@@ -31,7 +31,7 @@ body {
 }
 
 .hero h1 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Orbitron', sans-serif;
     font-size: clamp(2rem, 5vw, 3.8rem);
     letter-spacing: 3px;
     margin: 0 0 20px 0;
@@ -39,6 +39,7 @@ body {
 }
 
 .hero p {
+    font-family: 'Press Start 2P', cursive;
     font-size: 1.2rem;
     margin: 20px 0 40px 0;
     opacity: 0.9;
@@ -156,7 +157,8 @@ body {
 }
 
 .nav-logo span {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Audiowide', sans-serif;
+    letter-spacing: 2px;
     font-size: 1.6rem;
     font-weight: bold;
     letter-spacing: 3px;

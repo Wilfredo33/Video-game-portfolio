@@ -31,7 +31,7 @@ export default function Projects() {
             link: 'https://wilfredo-rivera.itch.io/drifting-death',
             description: 
             `Es un juego de carreras donde los competidores van a tratar de eliminarte
-            de la pista y debes tratar de hacer lo mismo usando la técnica de drifting correcto.
+            de la pista y debes hacer lo mismo usando la técnica de drifting correcta.
             Este es un juego que desarrollé durante mi formación como desarrollador de videojuegos.
             Actualmente se encuentra en fase de desarrollo.`
         },
@@ -44,7 +44,7 @@ export default function Projects() {
             `Una humana queda “atrapada” en una escuela llena de monstruos. 
             Con su arma dispara corazones con el objetivo de agotar la “resistencia emocional” 
             de los monstruos hasta hacerlos desaparecer, dejando corazones como recompensa.
-            El jego corresponde a mi segunda participación de una game jam de 18 horas, 
+            El juego corresponde a mi segunda participación de una game jam de 18 horas, 
             donde participé en el desarrollo del game play integrando scripts con
             sistemas de IA para obtener mecánicas más fluidas y entretenidas. \n
             Desarrollado en Unity y C#.`

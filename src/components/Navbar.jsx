@@ -9,7 +9,7 @@ export default function Navbar() {
             {/* LOGO */}
             <div className="nav-logo">
                 <span>WILFREDO RIVERA</span>
-                <p className="role">TECHNICAL LEVEL DESIGNER</p>
+                <p className="role">TECHNICAL GAMEPLAY DESIGNER</p>
             </div>
 
             {/* BOTÓN HAMBURGUESA (MÓVIL) */}
