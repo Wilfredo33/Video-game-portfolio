@@ -45,7 +45,7 @@ export default function Projects() {
             Con su arma dispara corazones con el objetivo de agotar la “resistencia emocional” 
             de los monstruos hasta hacerlos desaparecer, dejando corazones como recompensa.
             El juego corresponde a mi segunda participación de una game jam de 18 horas, 
-            donde participé en el desarrollo del game play integrando scripts con
+            donde colaboré en el desarrollo del game play integrando scripts con
             sistemas de IA para obtener mecánicas más fluidas y entretenidas. \n
             Desarrollado en Unity y C#.`
         }

@@ -17,8 +17,8 @@ export default function About() {
                 transition={{ duration: 0.8, delay: 0.2 }}
                 style={{ fontFamily: '"Press Start 2P", cursive',fontSize: '1.2rem', lineHeight: '1.6', color: '#ddd' }}
             >
-                Soy un desarrollador de videojuegos con experiencia en Unity, 
-                progración en C# y otras herramientas como git hub.
+                Soy desarrollador de videojuegos con experiencia en Unity, 
+                programación en C# y otras herramientas como git hub.
                 Me especializo en el diseño de mecánicas, implementación de prototipos,
                 programación del gameplay y optimización de juegos. 
                 Mi pasión es crear experiencias de juego únicas y diferenciadas,
