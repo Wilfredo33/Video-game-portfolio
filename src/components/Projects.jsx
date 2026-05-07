@@ -8,10 +8,10 @@ export default function Projects() {
             image: `${baseUrl}images/asteroids-energy.png`,
             link: 'https://wilfredo-rivera.itch.io/asteroids-energy',
             description:
-            `Un juego de acción espacial donde debes evitar asteroides y recolectar energía,
-            fue desarrollado en Unity y C# durante una game jam de 30 horas,
+            `Un juego de acción espacial donde debes evitar asteroides y recolectar energía.
+            Fue desarrollado en Unity y C# durante una game jam de 30 horas,
             donde participé en el desarrollo del game play integrando scripts
-            con mecánicas del player y enemigos. \n                
+            con mecánicas del player y spawn de enemigos. \n                
             Fue una gran experiencia que resultó en un proyecto divertido y satisfactorio.`
         },
         {
@@ -25,7 +25,7 @@ export default function Projects() {
             Desarrollado en Unity y C#.`
         },
 
-        {
+        /*{
             title: 'Drifting Death',
             image: `${baseUrl}images/drifting-death.png`,
             link: 'https://wilfredo-rivera.itch.io/drifting-death',
@@ -34,7 +34,7 @@ export default function Projects() {
             de la pista y debes hacer lo mismo usando la técnica de drifting correcta.
             Este es un juego que desarrollé durante mi formación como desarrollador de videojuegos.
             Actualmente se encuentra en fase de desarrollo.`
-        },
+        },*/
 
         {
             title: 'Romance Protocol',
@@ -47,6 +47,22 @@ export default function Projects() {
             El juego corresponde a mi segunda participación de una game jam de 18 horas, 
             donde colaboré en el desarrollo del game play integrando scripts con
             sistemas de IA para obtener mecánicas más fluidas y entretenidas. \n
+            Desarrollado en Unity y C#.`
+        },
+
+        {
+            title: ' It´s not a toy',
+            image: `${baseUrl}images/It´s_not_a_toy.png`,
+            link: 'https://mayvidev.itch.io/romance-protocol',
+            description: 
+            `María deberá manipular el entorno y resolver acertijos interconectados
+            que unen ambas dimensiones. \n
+            Este juego es el resultado de nuestro proyecto final cuya duración fue de 2 semanas,
+            el equipo estuvo conformado por cuatro personas y mis roles en el proyecto fueron
+            desarrollando e implemetando el sistema de inventario, así como integrando 
+            scripts con mecánicas del juego. Además de implemetar la UI del sistema de inventario
+            y los cuadros de texto interactivos haciendo coherente la interacción del player
+            con la información mostrada. \n 
             Desarrollado en Unity y C#.`
         }
     ];
